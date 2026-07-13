@@ -21,6 +21,30 @@
             "white"
         ]
     },
+    "bevel-left-white": {
+        "name": "White · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "white"
+        ]
+    },
+    "bevel-right-white": {
+        "name": "White · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "white"
+        ]
+    },
     "frame-slate": {
         "name": "Slate · Selected Frame",
         "tags": [
@@ -39,6 +63,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "slate"
+        ]
+    },
+    "bevel-left-slate": {
+        "name": "Slate · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "slate"
+        ]
+    },
+    "bevel-right-slate": {
+        "name": "Slate · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "slate"
         ]
@@ -65,6 +113,30 @@
             "red"
         ]
     },
+    "bevel-left-red": {
+        "name": "Red · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "red"
+        ]
+    },
+    "bevel-right-red": {
+        "name": "Red · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "red"
+        ]
+    },
     "frame-orange": {
         "name": "Orange · Selected Frame",
         "tags": [
@@ -83,6 +155,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "orange"
+        ]
+    },
+    "bevel-left-orange": {
+        "name": "Orange · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "orange"
+        ]
+    },
+    "bevel-right-orange": {
+        "name": "Orange · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "orange"
         ]
@@ -109,6 +205,30 @@
             "amber"
         ]
     },
+    "bevel-left-amber": {
+        "name": "Amber · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "amber"
+        ]
+    },
+    "bevel-right-amber": {
+        "name": "Amber · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "amber"
+        ]
+    },
     "frame-yellow": {
         "name": "Yellow · Selected Frame",
         "tags": [
@@ -127,6 +247,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "yellow"
+        ]
+    },
+    "bevel-left-yellow": {
+        "name": "Yellow · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "yellow"
+        ]
+    },
+    "bevel-right-yellow": {
+        "name": "Yellow · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "yellow"
         ]
@@ -153,6 +297,30 @@
             "lime"
         ]
     },
+    "bevel-left-lime": {
+        "name": "Lime · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "lime"
+        ]
+    },
+    "bevel-right-lime": {
+        "name": "Lime · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "lime"
+        ]
+    },
     "frame-green": {
         "name": "Green · Selected Frame",
         "tags": [
@@ -171,6 +339,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "green"
+        ]
+    },
+    "bevel-left-green": {
+        "name": "Green · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "green"
+        ]
+    },
+    "bevel-right-green": {
+        "name": "Green · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "green"
         ]
@@ -197,6 +389,30 @@
             "emerald"
         ]
     },
+    "bevel-left-emerald": {
+        "name": "Emerald · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "emerald"
+        ]
+    },
+    "bevel-right-emerald": {
+        "name": "Emerald · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "emerald"
+        ]
+    },
     "frame-teal": {
         "name": "Teal · Selected Frame",
         "tags": [
@@ -215,6 +431,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "teal"
+        ]
+    },
+    "bevel-left-teal": {
+        "name": "Teal · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "teal"
+        ]
+    },
+    "bevel-right-teal": {
+        "name": "Teal · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "teal"
         ]
@@ -241,6 +481,30 @@
             "cyan"
         ]
     },
+    "bevel-left-cyan": {
+        "name": "Cyan · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "cyan"
+        ]
+    },
+    "bevel-right-cyan": {
+        "name": "Cyan · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "cyan"
+        ]
+    },
     "frame-sky": {
         "name": "Sky · Selected Frame",
         "tags": [
@@ -259,6 +523,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "sky"
+        ]
+    },
+    "bevel-left-sky": {
+        "name": "Sky · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "sky"
+        ]
+    },
+    "bevel-right-sky": {
+        "name": "Sky · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "sky"
         ]
@@ -285,6 +573,30 @@
             "blue"
         ]
     },
+    "bevel-left-blue": {
+        "name": "Blue · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "blue"
+        ]
+    },
+    "bevel-right-blue": {
+        "name": "Blue · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "blue"
+        ]
+    },
     "frame-indigo": {
         "name": "Indigo · Selected Frame",
         "tags": [
@@ -303,6 +615,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "indigo"
+        ]
+    },
+    "bevel-left-indigo": {
+        "name": "Indigo · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "indigo"
+        ]
+    },
+    "bevel-right-indigo": {
+        "name": "Indigo · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "indigo"
         ]
@@ -329,6 +665,30 @@
             "violet"
         ]
     },
+    "bevel-left-violet": {
+        "name": "Violet · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "violet"
+        ]
+    },
+    "bevel-right-violet": {
+        "name": "Violet · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "violet"
+        ]
+    },
     "frame-purple": {
         "name": "Purple · Selected Frame",
         "tags": [
@@ -347,6 +707,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "purple"
+        ]
+    },
+    "bevel-left-purple": {
+        "name": "Purple · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "purple"
+        ]
+    },
+    "bevel-right-purple": {
+        "name": "Purple · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "purple"
         ]
@@ -373,6 +757,30 @@
             "fuchsia"
         ]
     },
+    "bevel-left-fuchsia": {
+        "name": "Fuchsia · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "fuchsia"
+        ]
+    },
+    "bevel-right-fuchsia": {
+        "name": "Fuchsia · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "fuchsia"
+        ]
+    },
     "frame-pink": {
         "name": "Pink · Selected Frame",
         "tags": [
@@ -395,6 +803,30 @@
             "pink"
         ]
     },
+    "bevel-left-pink": {
+        "name": "Pink · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "pink"
+        ]
+    },
+    "bevel-right-pink": {
+        "name": "Pink · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "pink"
+        ]
+    },
     "frame-rose": {
         "name": "Rose · Selected Frame",
         "tags": [
@@ -413,6 +845,30 @@
             "selected",
             "corner notch",
             "bracket",
+            "highlight",
+            "rose"
+        ]
+    },
+    "bevel-left-rose": {
+        "name": "Rose · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "rose"
+        ]
+    },
+    "bevel-right-rose": {
+        "name": "Rose · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
             "highlight",
             "rose"
         ]

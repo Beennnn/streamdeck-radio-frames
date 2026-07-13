@@ -14,14 +14,17 @@ The centre stays fully transparent, so the white title text keeps maximum
 contrast on every colour and the icon composites cleanly over the key's own
 background.
 
-## Two styles × 19 colours = 38 icons
+## Three styles × 19 colours = 76 icons
 
 - **Selected Frame** — a bold rounded border hugging the key edge. Loudest
   signal; best when the whole panel is one radio group.
 - **Selected Corner Notch** — four L-shaped corner brackets, centre clear.
-  Subtler; good when several groups share a panel and you want each group on
-  its own colour (e.g. one group blue, another yellow — the funk deck does
-  exactly this).
+  Subtler; a light reticle around the title.
+- **Selected Corner Bevel (Left / Right)** — a single chamfered top corner
+  (a coloured "dog-ear") with a dark liseré on the diagonal — the exact trick
+  the funk instrument icons used to flag a key. Left and right variants so two
+  groups can share one panel (e.g. one group blue on the left, another yellow
+  on the right, like the funk comping/impro split).
 
 Colours: white, slate, red, orange, amber, yellow, lime, green, emerald, teal,
 cyan, sky, blue, indigo, violet, purple, fuchsia, pink, rose.

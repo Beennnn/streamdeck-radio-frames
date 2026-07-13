@@ -1,5 +1,499 @@
 [
     {
+        "path": "bevel-left-amber.png",
+        "name": "Amber · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "amber"
+        ]
+    },
+    {
+        "path": "bevel-left-blue.png",
+        "name": "Blue · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "blue"
+        ]
+    },
+    {
+        "path": "bevel-left-cyan.png",
+        "name": "Cyan · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "cyan"
+        ]
+    },
+    {
+        "path": "bevel-left-emerald.png",
+        "name": "Emerald · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "emerald"
+        ]
+    },
+    {
+        "path": "bevel-left-fuchsia.png",
+        "name": "Fuchsia · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "fuchsia"
+        ]
+    },
+    {
+        "path": "bevel-left-green.png",
+        "name": "Green · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "green"
+        ]
+    },
+    {
+        "path": "bevel-left-indigo.png",
+        "name": "Indigo · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "indigo"
+        ]
+    },
+    {
+        "path": "bevel-left-lime.png",
+        "name": "Lime · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "lime"
+        ]
+    },
+    {
+        "path": "bevel-left-orange.png",
+        "name": "Orange · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "orange"
+        ]
+    },
+    {
+        "path": "bevel-left-pink.png",
+        "name": "Pink · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "pink"
+        ]
+    },
+    {
+        "path": "bevel-left-purple.png",
+        "name": "Purple · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "purple"
+        ]
+    },
+    {
+        "path": "bevel-left-red.png",
+        "name": "Red · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "red"
+        ]
+    },
+    {
+        "path": "bevel-left-rose.png",
+        "name": "Rose · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "rose"
+        ]
+    },
+    {
+        "path": "bevel-left-sky.png",
+        "name": "Sky · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "sky"
+        ]
+    },
+    {
+        "path": "bevel-left-slate.png",
+        "name": "Slate · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "slate"
+        ]
+    },
+    {
+        "path": "bevel-left-teal.png",
+        "name": "Teal · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "teal"
+        ]
+    },
+    {
+        "path": "bevel-left-violet.png",
+        "name": "Violet · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "violet"
+        ]
+    },
+    {
+        "path": "bevel-left-white.png",
+        "name": "White · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "white"
+        ]
+    },
+    {
+        "path": "bevel-left-yellow.png",
+        "name": "Yellow · Selected Corner Bevel (Left)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "yellow"
+        ]
+    },
+    {
+        "path": "bevel-right-amber.png",
+        "name": "Amber · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "amber"
+        ]
+    },
+    {
+        "path": "bevel-right-blue.png",
+        "name": "Blue · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "blue"
+        ]
+    },
+    {
+        "path": "bevel-right-cyan.png",
+        "name": "Cyan · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "cyan"
+        ]
+    },
+    {
+        "path": "bevel-right-emerald.png",
+        "name": "Emerald · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "emerald"
+        ]
+    },
+    {
+        "path": "bevel-right-fuchsia.png",
+        "name": "Fuchsia · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "fuchsia"
+        ]
+    },
+    {
+        "path": "bevel-right-green.png",
+        "name": "Green · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "green"
+        ]
+    },
+    {
+        "path": "bevel-right-indigo.png",
+        "name": "Indigo · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "indigo"
+        ]
+    },
+    {
+        "path": "bevel-right-lime.png",
+        "name": "Lime · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "lime"
+        ]
+    },
+    {
+        "path": "bevel-right-orange.png",
+        "name": "Orange · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "orange"
+        ]
+    },
+    {
+        "path": "bevel-right-pink.png",
+        "name": "Pink · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "pink"
+        ]
+    },
+    {
+        "path": "bevel-right-purple.png",
+        "name": "Purple · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "purple"
+        ]
+    },
+    {
+        "path": "bevel-right-red.png",
+        "name": "Red · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "red"
+        ]
+    },
+    {
+        "path": "bevel-right-rose.png",
+        "name": "Rose · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "rose"
+        ]
+    },
+    {
+        "path": "bevel-right-sky.png",
+        "name": "Sky · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "sky"
+        ]
+    },
+    {
+        "path": "bevel-right-slate.png",
+        "name": "Slate · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "slate"
+        ]
+    },
+    {
+        "path": "bevel-right-teal.png",
+        "name": "Teal · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "teal"
+        ]
+    },
+    {
+        "path": "bevel-right-violet.png",
+        "name": "Violet · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "violet"
+        ]
+    },
+    {
+        "path": "bevel-right-white.png",
+        "name": "White · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "white"
+        ]
+    },
+    {
+        "path": "bevel-right-yellow.png",
+        "name": "Yellow · Selected Corner Bevel (Right)",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner bevel",
+            "corner",
+            "chamfer",
+            "highlight",
+            "yellow"
+        ]
+    },
+    {
         "path": "frame-amber.png",
         "name": "Amber · Selected Frame",
         "tags": [
