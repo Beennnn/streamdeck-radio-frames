@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+  <!-- coloured bevelled corner -->
+  <path d="M0 0 L66 0 L0 66 Z" fill="#84CC16"/>
+  <!-- dark liseré on the diagonal so the bevel reads on any background -->
+  <path d="M66 0 L0 66" fill="none" stroke="#000000" stroke-opacity="0.45"
+        stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -10,8 +10,14 @@ Two families, one SVG per colour:
 
   notch-<colour>.svg   Four L-shaped corner brackets (the "corner notches"),
                        leaving the whole centre free. Subtler than a full
-                       frame; the funk profile used the same idea with a blue
-                       liseré on one group and a yellow one on another.
+                       frame.
+
+  bevel-left-<colour>.svg / bevel-right-<colour>.svg
+                       A single bevelled corner (a "dog-ear" chamfer) in ONE
+                       top corner + a dark liseré on the diagonal — the exact
+                       trick the funk instrument icons used to flag a key
+                       (blue liseré = one group, yellow = another). Left and
+                       right variants so two groups can share one panel.
 
 Why an overlay and not a filled tile: the icon composites over the key's own
 background, and the centre stays clear so the WHITE title text keeps maximum
@@ -64,6 +70,9 @@ NOTCH_ARM = 42        # bracket arm length
 NOTCH_W = 13          # coloured stroke width
 NOTCH_HALO = 18
 
+BEVEL_LEG = 66        # length of each leg of the corner triangle
+BEVEL_LISERE_W = 7    # dark liseré along the diagonal (funk trick)
+
 
 def frame_svg(hexc: str) -> str:
     """Full coloured border, transparent centre, dark halo + inner highlight."""
@@ -113,12 +122,38 @@ def notch_svg(hexc: str) -> str:
 '''
 
 
+def bevel_svg(hexc: str, side: str) -> str:
+    """A single bevelled top corner (dog-ear) + dark liseré on the diagonal.
+
+    The funk instrument icons flagged a key exactly this way: one chamfered
+    corner in the group's colour with a darker liseré so it reads on black keys
+    AND on lit tiles. `side` is "left" (top-left corner) or "right" (top-right).
+    """
+    b = BEVEL_LEG
+    if side == "left":
+        tri = f"M0 0 L{b} 0 L0 {b} Z"          # top-left corner triangle
+        dia = f"M{b} 0 L0 {b}"                   # its diagonal (the liseré)
+    else:
+        tri = f"M144 0 L{144 - b} 0 L144 {b} Z"  # top-right corner triangle
+        dia = f"M{144 - b} 0 L144 {b}"
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 144">
+  <!-- coloured bevelled corner -->
+  <path d="{tri}" fill="{hexc}"/>
+  <!-- dark liseré on the diagonal so the bevel reads on any background -->
+  <path d="{dia}" fill="none" stroke="#000000" stroke-opacity="0.45"
+        stroke-width="{BEVEL_LISERE_W}" stroke-linecap="round"/>
+</svg>
+'''
+
+
 def main():
     SRC.mkdir(exist_ok=True)
     tags = {}
     for slug, disp, hexc in COLOURS:
         (SRC / f"frame-{slug}.svg").write_text(frame_svg(hexc))
         (SRC / f"notch-{slug}.svg").write_text(notch_svg(hexc))
+        (SRC / f"bevel-left-{slug}.svg").write_text(bevel_svg(hexc, "left"))
+        (SRC / f"bevel-right-{slug}.svg").write_text(bevel_svg(hexc, "right"))
         tags[f"frame-{slug}"] = {
             "name": f"{disp} · Selected Frame",
             "tags": ["radio button", "selected", "frame", "border",
@@ -129,8 +164,18 @@ def main():
             "tags": ["radio button", "selected", "corner notch", "bracket",
                      "highlight", slug],
         }
+        tags[f"bevel-left-{slug}"] = {
+            "name": f"{disp} · Selected Corner Bevel (Left)",
+            "tags": ["radio button", "selected", "corner bevel", "corner",
+                     "chamfer", "highlight", slug],
+        }
+        tags[f"bevel-right-{slug}"] = {
+            "name": f"{disp} · Selected Corner Bevel (Right)",
+            "tags": ["radio button", "selected", "corner bevel", "corner",
+                     "chamfer", "highlight", slug],
+        }
     (ROOT / "tags.json").write_text(json.dumps(tags, indent=4, ensure_ascii=False) + "\n")
-    print(f"wrote {len(COLOURS) * 2} SVGs + tags.json ({len(COLOURS)} colours x 2 families)")
+    print(f"wrote {len(COLOURS) * 4} SVGs + tags.json ({len(COLOURS)} colours x 4 families)")
 
 
 if __name__ == "__main__":
