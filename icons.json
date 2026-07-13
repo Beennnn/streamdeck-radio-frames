@@ -1,0 +1,458 @@
+[
+    {
+        "path": "frame-amber.png",
+        "name": "Amber · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "amber"
+        ]
+    },
+    {
+        "path": "frame-blue.png",
+        "name": "Blue · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "blue"
+        ]
+    },
+    {
+        "path": "frame-cyan.png",
+        "name": "Cyan · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "cyan"
+        ]
+    },
+    {
+        "path": "frame-emerald.png",
+        "name": "Emerald · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "emerald"
+        ]
+    },
+    {
+        "path": "frame-fuchsia.png",
+        "name": "Fuchsia · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "fuchsia"
+        ]
+    },
+    {
+        "path": "frame-green.png",
+        "name": "Green · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "green"
+        ]
+    },
+    {
+        "path": "frame-indigo.png",
+        "name": "Indigo · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "indigo"
+        ]
+    },
+    {
+        "path": "frame-lime.png",
+        "name": "Lime · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "lime"
+        ]
+    },
+    {
+        "path": "frame-orange.png",
+        "name": "Orange · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "orange"
+        ]
+    },
+    {
+        "path": "frame-pink.png",
+        "name": "Pink · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "pink"
+        ]
+    },
+    {
+        "path": "frame-purple.png",
+        "name": "Purple · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "purple"
+        ]
+    },
+    {
+        "path": "frame-red.png",
+        "name": "Red · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "red"
+        ]
+    },
+    {
+        "path": "frame-rose.png",
+        "name": "Rose · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "rose"
+        ]
+    },
+    {
+        "path": "frame-sky.png",
+        "name": "Sky · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "sky"
+        ]
+    },
+    {
+        "path": "frame-slate.png",
+        "name": "Slate · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "slate"
+        ]
+    },
+    {
+        "path": "frame-teal.png",
+        "name": "Teal · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "teal"
+        ]
+    },
+    {
+        "path": "frame-violet.png",
+        "name": "Violet · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "violet"
+        ]
+    },
+    {
+        "path": "frame-white.png",
+        "name": "White · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "white"
+        ]
+    },
+    {
+        "path": "frame-yellow.png",
+        "name": "Yellow · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "yellow"
+        ]
+    },
+    {
+        "path": "notch-amber.png",
+        "name": "Amber · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "amber"
+        ]
+    },
+    {
+        "path": "notch-blue.png",
+        "name": "Blue · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "blue"
+        ]
+    },
+    {
+        "path": "notch-cyan.png",
+        "name": "Cyan · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "cyan"
+        ]
+    },
+    {
+        "path": "notch-emerald.png",
+        "name": "Emerald · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "emerald"
+        ]
+    },
+    {
+        "path": "notch-fuchsia.png",
+        "name": "Fuchsia · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "fuchsia"
+        ]
+    },
+    {
+        "path": "notch-green.png",
+        "name": "Green · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "green"
+        ]
+    },
+    {
+        "path": "notch-indigo.png",
+        "name": "Indigo · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "indigo"
+        ]
+    },
+    {
+        "path": "notch-lime.png",
+        "name": "Lime · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "lime"
+        ]
+    },
+    {
+        "path": "notch-orange.png",
+        "name": "Orange · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "orange"
+        ]
+    },
+    {
+        "path": "notch-pink.png",
+        "name": "Pink · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "pink"
+        ]
+    },
+    {
+        "path": "notch-purple.png",
+        "name": "Purple · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "purple"
+        ]
+    },
+    {
+        "path": "notch-red.png",
+        "name": "Red · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "red"
+        ]
+    },
+    {
+        "path": "notch-rose.png",
+        "name": "Rose · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "rose"
+        ]
+    },
+    {
+        "path": "notch-sky.png",
+        "name": "Sky · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "sky"
+        ]
+    },
+    {
+        "path": "notch-slate.png",
+        "name": "Slate · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "slate"
+        ]
+    },
+    {
+        "path": "notch-teal.png",
+        "name": "Teal · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "teal"
+        ]
+    },
+    {
+        "path": "notch-violet.png",
+        "name": "Violet · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "violet"
+        ]
+    },
+    {
+        "path": "notch-white.png",
+        "name": "White · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "white"
+        ]
+    },
+    {
+        "path": "notch-yellow.png",
+        "name": "Yellow · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "yellow"
+        ]
+    }
+]
