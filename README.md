@@ -14,6 +14,8 @@ The centre stays fully transparent, so the white title text keeps maximum
 contrast on every colour and the icon composites cleanly over the key's own
 background.
 
+![Three selection styles on three Stream Deck keys](docs/example.png)
+
 ## Three styles × 19 colours = 76 icons
 
 - **Selected Frame** — a bold rounded border hugging the key edge. Loudest
