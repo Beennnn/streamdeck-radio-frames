@@ -1,0 +1,9 @@
+{
+    "Name": "Radio Button Selection Frames",
+    "Author": "Beennnn",
+    "Version": "1.0.0",
+    "Description": "Coloured selection frames and corner notches to show which key is the active one in a radio-button group. Put a plain text title on a Stream Deck key, then set one of these as the key's selected/pressed state image: the title now sits inside a bright coloured frame (or four corner notches) so the chosen option reads at a glance. Transparent centre keeps the white title text crisp on every colour. 19 colours x 2 styles = 38 icons. Pair with a multi-state MIDI plugin using an exclusive group so pressing one key clears the frame on the others. Open-source, built with the sdicons toolkit: github.com/Beennnn/stream-deck-icons",
+    "Icon": "icon.svg",
+    "URL": "https://github.com/Beennnn/streamdeck-radio-frames",
+    "Licence": "license.txt"
+}

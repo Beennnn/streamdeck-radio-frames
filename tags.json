@@ -1,0 +1,420 @@
+{
+    "frame-white": {
+        "name": "White · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "white"
+        ]
+    },
+    "notch-white": {
+        "name": "White · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "white"
+        ]
+    },
+    "frame-slate": {
+        "name": "Slate · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "slate"
+        ]
+    },
+    "notch-slate": {
+        "name": "Slate · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "slate"
+        ]
+    },
+    "frame-red": {
+        "name": "Red · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "red"
+        ]
+    },
+    "notch-red": {
+        "name": "Red · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "red"
+        ]
+    },
+    "frame-orange": {
+        "name": "Orange · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "orange"
+        ]
+    },
+    "notch-orange": {
+        "name": "Orange · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "orange"
+        ]
+    },
+    "frame-amber": {
+        "name": "Amber · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "amber"
+        ]
+    },
+    "notch-amber": {
+        "name": "Amber · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "amber"
+        ]
+    },
+    "frame-yellow": {
+        "name": "Yellow · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "yellow"
+        ]
+    },
+    "notch-yellow": {
+        "name": "Yellow · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "yellow"
+        ]
+    },
+    "frame-lime": {
+        "name": "Lime · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "lime"
+        ]
+    },
+    "notch-lime": {
+        "name": "Lime · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "lime"
+        ]
+    },
+    "frame-green": {
+        "name": "Green · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "green"
+        ]
+    },
+    "notch-green": {
+        "name": "Green · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "green"
+        ]
+    },
+    "frame-emerald": {
+        "name": "Emerald · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "emerald"
+        ]
+    },
+    "notch-emerald": {
+        "name": "Emerald · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "emerald"
+        ]
+    },
+    "frame-teal": {
+        "name": "Teal · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "teal"
+        ]
+    },
+    "notch-teal": {
+        "name": "Teal · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "teal"
+        ]
+    },
+    "frame-cyan": {
+        "name": "Cyan · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "cyan"
+        ]
+    },
+    "notch-cyan": {
+        "name": "Cyan · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "cyan"
+        ]
+    },
+    "frame-sky": {
+        "name": "Sky · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "sky"
+        ]
+    },
+    "notch-sky": {
+        "name": "Sky · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "sky"
+        ]
+    },
+    "frame-blue": {
+        "name": "Blue · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "blue"
+        ]
+    },
+    "notch-blue": {
+        "name": "Blue · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "blue"
+        ]
+    },
+    "frame-indigo": {
+        "name": "Indigo · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "indigo"
+        ]
+    },
+    "notch-indigo": {
+        "name": "Indigo · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "indigo"
+        ]
+    },
+    "frame-violet": {
+        "name": "Violet · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "violet"
+        ]
+    },
+    "notch-violet": {
+        "name": "Violet · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "violet"
+        ]
+    },
+    "frame-purple": {
+        "name": "Purple · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "purple"
+        ]
+    },
+    "notch-purple": {
+        "name": "Purple · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "purple"
+        ]
+    },
+    "frame-fuchsia": {
+        "name": "Fuchsia · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "fuchsia"
+        ]
+    },
+    "notch-fuchsia": {
+        "name": "Fuchsia · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "fuchsia"
+        ]
+    },
+    "frame-pink": {
+        "name": "Pink · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "pink"
+        ]
+    },
+    "notch-pink": {
+        "name": "Pink · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "pink"
+        ]
+    },
+    "frame-rose": {
+        "name": "Rose · Selected Frame",
+        "tags": [
+            "radio button",
+            "selected",
+            "frame",
+            "border",
+            "highlight",
+            "rose"
+        ]
+    },
+    "notch-rose": {
+        "name": "Rose · Selected Corner Notch",
+        "tags": [
+            "radio button",
+            "selected",
+            "corner notch",
+            "bracket",
+            "highlight",
+            "rose"
+        ]
+    }
+}

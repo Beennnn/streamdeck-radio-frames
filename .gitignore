@@ -1,0 +1,12 @@
+# Generated pack outputs — reproducible via `bin/build.sh`
+dist/
+maker-media/
+contact-sheet.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store
