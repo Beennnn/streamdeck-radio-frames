@@ -31,6 +31,8 @@ background.
 Colours: white, slate, red, orange, amber, yellow, lime, green, emerald, teal,
 cyan, sky, blue, indigo, violet, purple, fuchsia, pink, rose.
 
+![All 76 icons — 19 colours across, one style per row](docs/gallery.png)
+
 ## How to use it as a radio button
 
 These are the **state 1 (selected)** image. State 0 (idle) = no frame, just the
