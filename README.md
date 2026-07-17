@@ -67,8 +67,8 @@ python3 gen_frames.py           # regenerate src/*.svg + tags.json (edit COLOURS
 bin/build.sh                    # render → validate → contact sheet → package
 ```
 
-Built with the [sdicons](https://github.com/Beennnn/stream-deck-icons) toolkit
-(`../stream-deck-icons`, or set `$SDICONS`). Requires `rsvg-convert`
+Built with the [sdicons](https://github.com/Beennnn/streamdeck-toolkit) toolkit
+(`../streamdeck-toolkit`, or set `$SDICONS`). Requires `rsvg-convert`
 (`brew install librsvg`) + Pillow.
 
 ## License
